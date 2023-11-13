@@ -2,164 +2,36 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>uso_vegetacion</name>
-    <Style id="poly-0F9D58-1000-255-normal">
+    <Style id="poly-0097A7-1000-59-normal">
       <LineStyle>
-        <color>ff589d0f</color>
+        <color>ffa79700</color>
         <width>1</width>
       </LineStyle>
       <PolyStyle>
-        <color>ff589d0f</color>
+        <color>3ba79700</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-0F9D58-1000-255-highlight">
+    <Style id="poly-0097A7-1000-59-highlight">
       <LineStyle>
-        <color>ff589d0f</color>
+        <color>ffa79700</color>
         <width>1.5</width>
       </LineStyle>
       <PolyStyle>
-        <color>ff589d0f</color>
+        <color>3ba79700</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-0F9D58-1000-255">
+    <StyleMap id="poly-0097A7-1000-59">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-0F9D58-1000-255-normal</styleUrl>
+        <styleUrl>#poly-0097A7-1000-59-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-0F9D58-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-558B2F-1401-150-normal">
-      <LineStyle>
-        <color>ff2f8b55</color>
-        <width>1.401</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>962f8b55</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-558B2F-1401-150-highlight">
-      <LineStyle>
-        <color>ff2f8b55</color>
-        <width>2.1015</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>962f8b55</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-558B2F-1401-150">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-558B2F-1401-150-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-558B2F-1401-150-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-673AB7-1000-189-normal">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>bdb73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-673AB7-1000-189-highlight">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>bdb73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-673AB7-1000-189">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-673AB7-1000-189-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-673AB7-1000-189-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-795548-1000-255-normal">
-      <LineStyle>
-        <color>ff485579</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff485579</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-795548-1000-255-highlight">
-      <LineStyle>
-        <color>ff485579</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff485579</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-795548-1000-255">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-795548-1000-255-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-795548-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-7CB342-1000-61-normal">
-      <LineStyle>
-        <color>ff42b37c</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>3d42b37c</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-7CB342-1000-61-highlight">
-      <LineStyle>
-        <color>ff42b37c</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>3d42b37c</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-7CB342-1000-61">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-7CB342-1000-61-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-7CB342-1000-61-highlight</styleUrl>
+        <styleUrl>#poly-0097A7-1000-59-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-817717-1000-171-normal">
@@ -194,70 +66,6 @@
         <styleUrl>#poly-817717-1000-171-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-87CEAC-1000-255-normal">
-      <LineStyle>
-        <color>ffacce87</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ffacce87</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-87CEAC-1000-255-highlight">
-      <LineStyle>
-        <color>ffacce87</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ffacce87</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-87CEAC-1000-255">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-87CEAC-1000-255-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-87CEAC-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-9FA8DA-1000-255-normal">
-      <LineStyle>
-        <color>ffdaa89f</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ffdaa89f</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-9FA8DA-1000-255-highlight">
-      <LineStyle>
-        <color>ffdaa89f</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ffdaa89f</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-9FA8DA-1000-255">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-9FA8DA-1000-255-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-9FA8DA-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-A1C2FA-1000-207-normal">
       <LineStyle>
         <color>fffac2a1</color>
@@ -290,132 +98,36 @@
         <styleUrl>#poly-A1C2FA-1000-207-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-A1C2FA-1000-255-normal">
+    <Style id="poly-F48FB1-1401-150-normal">
       <LineStyle>
-        <color>fffac2a1</color>
-        <width>1</width>
+        <color>ffb18ff4</color>
+        <width>1.401</width>
       </LineStyle>
       <PolyStyle>
-        <color>fffac2a1</color>
+        <color>96b18ff4</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-A1C2FA-1000-255-highlight">
+    <Style id="poly-F48FB1-1401-150-highlight">
       <LineStyle>
-        <color>fffac2a1</color>
-        <width>1.5</width>
+        <color>ffb18ff4</color>
+        <width>2.1015</width>
       </LineStyle>
       <PolyStyle>
-        <color>fffac2a1</color>
+        <color>96b18ff4</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-A1C2FA-1000-255">
+    <StyleMap id="poly-F48FB1-1401-150">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-A1C2FA-1000-255-normal</styleUrl>
+        <styleUrl>#poly-F48FB1-1401-150-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-A1C2FA-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-E6EE9C-1000-240-normal">
-      <LineStyle>
-        <color>ff9ceee6</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>f09ceee6</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-E6EE9C-1000-240-highlight">
-      <LineStyle>
-        <color>ff9ceee6</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>f09ceee6</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-E6EE9C-1000-240">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-E6EE9C-1000-240-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-E6EE9C-1000-240-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-EDA29B-1000-186-normal">
-      <LineStyle>
-        <color>ff9ba2ed</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ba9ba2ed</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-EDA29B-1000-186-highlight">
-      <LineStyle>
-        <color>ff9ba2ed</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ba9ba2ed</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-EDA29B-1000-186">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-EDA29B-1000-186-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-EDA29B-1000-186-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-F57C00-1000-255-normal">
-      <LineStyle>
-        <color>ff007cf5</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff007cf5</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-F57C00-1000-255-highlight">
-      <LineStyle>
-        <color>ff007cf5</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff007cf5</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-F57C00-1000-255">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-F57C00-1000-255-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-F57C00-1000-255-highlight</styleUrl>
+        <styleUrl>#poly-F48FB1-1401-150-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-FF0000-1000-0-normal">
@@ -448,198 +160,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-FF0000-1000-0-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FF0000-1000-255-normal">
-      <LineStyle>
-        <color>ff0000ff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff0000ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FF0000-1000-255-highlight">
-      <LineStyle>
-        <color>ff0000ff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff0000ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FF0000-1000-255">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FF0000-1000-255-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FF0000-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFD600-1000-107-normal">
-      <LineStyle>
-        <color>ff00d6ff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>6b00d6ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFD600-1000-107-highlight">
-      <LineStyle>
-        <color>ff00d6ff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>6b00d6ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFD600-1000-107">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFD600-1000-107-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFD600-1000-107-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFD600-1000-255-normal">
-      <LineStyle>
-        <color>ff00d6ff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff00d6ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFD600-1000-255-highlight">
-      <LineStyle>
-        <color>ff00d6ff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>ff00d6ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFD600-1000-255">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFD600-1000-255-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFD600-1000-255-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFEA00-1000-143-normal">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>8f00eaff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFEA00-1000-143-highlight">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>8f00eaff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFEA00-1000-143">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFEA00-1000-143-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFEA00-1000-143-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFFF8D-1000-240-normal">
-      <LineStyle>
-        <color>ff8dffff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>f08dffff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFFF8D-1000-240-highlight">
-      <LineStyle>
-        <color>ff8dffff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>f08dffff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFFF8D-1000-240">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFFF8D-1000-240-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFFF8D-1000-240-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFFF8D-1000-43-normal">
-      <LineStyle>
-        <color>ff8dffff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2b8dffff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFFF8D-1000-43-highlight">
-      <LineStyle>
-        <color>ff8dffff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2b8dffff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFFF8D-1000-43">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFFF8D-1000-43-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFFF8D-1000-43-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
@@ -682,7 +202,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: <br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-558B2F-1401-150</styleUrl>
+      <styleUrl>#poly-F48FB1-1401-150</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -1371,7 +891,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=2" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-E6EE9C-1000-240</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -1475,7 +995,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=3" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-0F9D58-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -1549,7 +1069,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=4" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-7CB342-1000-61</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -1659,7 +1179,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=5" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-FFEA00-1000-143</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -1788,7 +1308,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=12" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-9FA8DA-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -1874,7 +1394,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=25" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-FFD600-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -2294,7 +1814,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=8" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-FF0000-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -2391,7 +1911,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=10" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-A1C2FA-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -2605,7 +2125,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=13" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-795548-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -2854,7 +2374,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=14" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-673AB7-1000-189</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -2950,7 +2470,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=15" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-FFFF8D-1000-43</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -3060,7 +2580,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=24" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-F57C00-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -3178,7 +2698,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=17" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-87CEAC-1000-255</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -3419,7 +2939,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=18" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-FFFF8D-1000-240</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -3590,7 +3110,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=19" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-EDA29B-1000-186</styleUrl>
+      <styleUrl>#poly-FF0000-1000-0</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -3682,7 +3202,7 @@
     <Placemark>
       <name/>
       <description><![CDATA[descripción: <br>Title: LOTE PRUEBA GEOPORTAL <br><br> <a href="http://saxum-tech.com/demo/geoportal/src/index.php?id=20" target="_blank">Ficha Prueba</a><br><br> <a href="#" aria-pressed="true" role="button" target="_blank"><i></i>Info</a><br>Head: <br>URL: ]]></description>
-      <styleUrl>#poly-FFD600-1000-107</styleUrl>
+      <styleUrl>#poly-0097A7-1000-59</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
