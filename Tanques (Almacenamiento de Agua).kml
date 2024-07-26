@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Tanques__Almacenamiento_de_Agua_" id="Tanques__Almacenamiento_de_Agua_">
+	<SimpleField name="cali_repr" type="string"></SimpleField>
+	<SimpleField name="geografico" type="string"></SimpleField>
+	<SimpleField name="rela_suel" type="string"></SimpleField>
+	<SimpleField name="condicion" type="string"></SimpleField>
+	<SimpleField name="contenido" type="string"></SimpleField>
+	<SimpleField name="version" type="string"></SimpleField>
+	<SimpleField name="identifica" type="string"></SimpleField>
+	<SimpleField name="objectid" type="float"></SimpleField>
+</Schema>
+<Folder><name>Tanques__Almacenamiento_de_Agua_</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635256</SimpleData>
+		<SimpleData name="objectid">28175</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.814043261539,25.2779600615384</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635257</SimpleData>
+		<SimpleData name="objectid">28176</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.803030676924,25.3017987846153</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635258</SimpleData>
+		<SimpleData name="objectid">28177</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.801955538462,25.303711276923</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635259</SimpleData>
+		<SimpleData name="objectid">28178</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.799585676924,25.3071693692307</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635260</SimpleData>
+		<SimpleData name="objectid">28179</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.803794138462,25.3442061384614</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635261</SimpleData>
+		<SimpleData name="objectid">28180</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.795662307693,25.3452272461538</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635262</SimpleData>
+		<SimpleData name="objectid">28181</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.797083461539,25.371619476923</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635263</SimpleData>
+		<SimpleData name="objectid">28182</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.841192292309,25.3462380615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635264</SimpleData>
+		<SimpleData name="objectid">28183</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.828555538462,25.3504661384614</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635265</SimpleData>
+		<SimpleData name="objectid">28184</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.878838723078,25.3112329076922</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635266</SimpleData>
+		<SimpleData name="objectid">28185</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.824020384616,25.3578725999999</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635267</SimpleData>
+		<SimpleData name="objectid">28186</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.86734703077,25.3572805999999</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635268</SimpleData>
+		<SimpleData name="objectid">28187</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.865009676924,25.3584910461537</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635269</SimpleData>
+		<SimpleData name="objectid">28188</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.830672815385,25.3557298461537</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8635270</SimpleData>
+		<SimpleData name="objectid">28189</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.872872000001,25.3672889230768</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877693</SimpleData>
+		<SimpleData name="objectid">43936</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.889281861539,25.3110362769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877694</SimpleData>
+		<SimpleData name="objectid">43937</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.939401646155,25.2903124769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877695</SimpleData>
+		<SimpleData name="objectid">43938</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.985177338463,25.3675669692305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877696</SimpleData>
+		<SimpleData name="objectid">43939</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971553323078,25.3583683230767</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877697</SimpleData>
+		<SimpleData name="objectid">43940</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.977823615386,25.3665882461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877698</SimpleData>
+		<SimpleData name="objectid">43941</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.999670430771,25.3513373384613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877699</SimpleData>
+		<SimpleData name="objectid">43942</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.985163523078,25.3608463384613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877700</SimpleData>
+		<SimpleData name="objectid">43943</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.942238338463,25.2800426769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877701</SimpleData>
+		<SimpleData name="objectid">43944</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.948219169232,25.2833294769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">12877702</SimpleData>
+		<SimpleData name="objectid">43945</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.889727476924,25.3121250307691</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8629241</SimpleData>
+		<SimpleData name="objectid">28161</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.862989692309,25.4525928615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8629242</SimpleData>
+		<SimpleData name="objectid">28162</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.831853892309,25.4430599846153</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8629243</SimpleData>
+		<SimpleData name="objectid">28163</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.812871476924,25.4292239076922</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">8629244</SimpleData>
+		<SimpleData name="objectid">28164</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.81348683077,25.4296253999999</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691625</SimpleData>
+		<SimpleData name="objectid">35682</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.895754261539,25.4095365846152</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691626</SimpleData>
+		<SimpleData name="objectid">35683</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.898076353847,25.4151864615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691627</SimpleData>
+		<SimpleData name="objectid">35684</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.902108123078,25.4053135999998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691628</SimpleData>
+		<SimpleData name="objectid">35685</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.895462692309,25.4060976461537</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691629</SimpleData>
+		<SimpleData name="objectid">35686</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.910891938463,25.4033617384614</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691630</SimpleData>
+		<SimpleData name="objectid">35687</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.921037969232,25.3949027999998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691631</SimpleData>
+		<SimpleData name="objectid">35688</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.918653123078,25.3958614769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691632</SimpleData>
+		<SimpleData name="objectid">35689</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.930041169232,25.4013637076921</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691633</SimpleData>
+		<SimpleData name="objectid">35690</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.922247600001,25.4081782923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691634</SimpleData>
+		<SimpleData name="objectid">35691</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.983169692309,25.3984627999998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691635</SimpleData>
+		<SimpleData name="objectid">35692</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.90669706154,25.424116953846</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691636</SimpleData>
+		<SimpleData name="objectid">35693</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.918472076924,25.4491688769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691637</SimpleData>
+		<SimpleData name="objectid">35694</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.972190600001,25.489130230769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691638</SimpleData>
+		<SimpleData name="objectid">35695</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.972038569232,25.4890577076921</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691639</SimpleData>
+		<SimpleData name="objectid">35696</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971903200001,25.4889948153844</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691640</SimpleData>
+		<SimpleData name="objectid">35697</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971607507694,25.4888495846151</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691641</SimpleData>
+		<SimpleData name="objectid">35698</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971272969232,25.4886775538459</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691642</SimpleData>
+		<SimpleData name="objectid">35699</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971094200001,25.4889758461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691643</SimpleData>
+		<SimpleData name="objectid">35700</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971447876924,25.4891476923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691644</SimpleData>
+		<SimpleData name="objectid">35701</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.971854138463,25.4893461538459</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691645</SimpleData>
+		<SimpleData name="objectid">35702</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.947640984617,25.4030522461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691646</SimpleData>
+		<SimpleData name="objectid">35703</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.978045569232,25.3777555999998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691647</SimpleData>
+		<SimpleData name="objectid">35704</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.984138092309,25.3872751692305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691648</SimpleData>
+		<SimpleData name="objectid">35705</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.978795584617,25.3906167846151</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691649</SimpleData>
+		<SimpleData name="objectid">35706</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.975688907694,25.3980932923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691650</SimpleData>
+		<SimpleData name="objectid">35707</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.958514338463,25.3828747692305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691651</SimpleData>
+		<SimpleData name="objectid">35708</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.966172723078,25.3872402461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691652</SimpleData>
+		<SimpleData name="objectid">35709</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.942203646155,25.3876254615382</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691653</SimpleData>
+		<SimpleData name="objectid">35710</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.950489507694,25.4116643846152</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691654</SimpleData>
+		<SimpleData name="objectid">35711</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.950601938463,25.4123667384613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691655</SimpleData>
+		<SimpleData name="objectid">35712</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.983014523078,25.4260623692305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691656</SimpleData>
+		<SimpleData name="objectid">35713</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.916403000001,25.4356236769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691657</SimpleData>
+		<SimpleData name="objectid">35714</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.920952907693,25.434920953846</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691658</SimpleData>
+		<SimpleData name="objectid">35715</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.918500769232,25.4353269999998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691659</SimpleData>
+		<SimpleData name="objectid">35716</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.905287538463,25.4482681230768</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691660</SimpleData>
+		<SimpleData name="objectid">35717</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.953406353847,25.4550691076921</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691661</SimpleData>
+		<SimpleData name="objectid">35718</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.945950415386,25.4579831384613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691662</SimpleData>
+		<SimpleData name="objectid">35719</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.923111523078,25.4850862153844</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691663</SimpleData>
+		<SimpleData name="objectid">35720</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.944730569232,25.4960435846152</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691664</SimpleData>
+		<SimpleData name="objectid">35721</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.94447183077,25.4959572615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691665</SimpleData>
+		<SimpleData name="objectid">35722</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.944805753847,25.4954291538459</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691666</SimpleData>
+		<SimpleData name="objectid">35723</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.949483384617,25.4728564153844</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691667</SimpleData>
+		<SimpleData name="objectid">35724</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.945666953847,25.4857532153844</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691668</SimpleData>
+		<SimpleData name="objectid">35725</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.945045200001,25.4858938461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691669</SimpleData>
+		<SimpleData name="objectid">35726</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.948570753847,25.4888365692306</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691670</SimpleData>
+		<SimpleData name="objectid">35727</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.948391507694,25.4884826769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691671</SimpleData>
+		<SimpleData name="objectid">35728</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.944038400001,25.4920462615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691672</SimpleData>
+		<SimpleData name="objectid">35729</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.962184276924,25.4559415384613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691673</SimpleData>
+		<SimpleData name="objectid">35730</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.959073738463,25.4765542461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691674</SimpleData>
+		<SimpleData name="objectid">35731</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.963217876924,25.482412230769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691675</SimpleData>
+		<SimpleData name="objectid">35732</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.967575123078,25.4797291692305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691676</SimpleData>
+		<SimpleData name="objectid">35733</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.969706984617,25.480858830769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691677</SimpleData>
+		<SimpleData name="objectid">35734</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.974015046155,25.4722155999998</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691678</SimpleData>
+		<SimpleData name="objectid">35735</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.962699600001,25.4879004615382</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691679</SimpleData>
+		<SimpleData name="objectid">35736</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.966436230771,25.4866997692305</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691680</SimpleData>
+		<SimpleData name="objectid">35737</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.979509246155,25.4930354461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691681</SimpleData>
+		<SimpleData name="objectid">35738</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.975753384617,25.4952305384613</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691682</SimpleData>
+		<SimpleData name="objectid">35739</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.934461769232,25.3884434923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691683</SimpleData>
+		<SimpleData name="objectid">35740</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.937369907693,25.388698830769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691684</SimpleData>
+		<SimpleData name="objectid">35741</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.936109846155,25.3883002153844</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691685</SimpleData>
+		<SimpleData name="objectid">35742</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.93941406154,25.390458953846</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691686</SimpleData>
+		<SimpleData name="objectid">35743</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.936765107693,25.391649230769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691687</SimpleData>
+		<SimpleData name="objectid">35744</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.943586800001,25.3905566615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691688</SimpleData>
+		<SimpleData name="objectid">35745</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.904377600001,25.4117908923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691689</SimpleData>
+		<SimpleData name="objectid">35746</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.904472953847,25.4180921384614</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691690</SimpleData>
+		<SimpleData name="objectid">35747</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.901200723078,25.4246114769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691691</SimpleData>
+		<SimpleData name="objectid">35748</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.926092246155,25.4184985230767</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691692</SimpleData>
+		<SimpleData name="objectid">35749</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.93307666154,25.4107050923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691693</SimpleData>
+		<SimpleData name="objectid">35750</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.935954323078,25.419530230769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691694</SimpleData>
+		<SimpleData name="objectid">35751</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.974902953847,25.3814198615382</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691695</SimpleData>
+		<SimpleData name="objectid">35752</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.980770646155,25.383816430769</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691696</SimpleData>
+		<SimpleData name="objectid">35753</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.94235206154,25.3868557230767</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691697</SimpleData>
+		<SimpleData name="objectid">35754</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.958987938463,25.3834030769228</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691698</SimpleData>
+		<SimpleData name="objectid">35755</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.94158706154,25.3864727692306</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691699</SimpleData>
+		<SimpleData name="objectid">35756</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.921997953847,25.4487026615383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691700</SimpleData>
+		<SimpleData name="objectid">35757</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.949701030771,25.4981785692306</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691701</SimpleData>
+		<SimpleData name="objectid">35758</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.942652953847,25.4802282769229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691702</SimpleData>
+		<SimpleData name="objectid">35759</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.944605000001,25.4898361538459</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691703</SimpleData>
+		<SimpleData name="objectid">35760</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.944827046155,25.4898728923075</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691704</SimpleData>
+		<SimpleData name="objectid">35761</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.974612138463,25.4453654153844</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">10691705</SimpleData>
+		<SimpleData name="objectid">35762</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.994208784617,25.4538970461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">22464561</SimpleData>
+		<SimpleData name="objectid">88596</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.022602784617,25.4380444461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">22464562</SimpleData>
+		<SimpleData name="objectid">88597</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.002053107694,25.4442050461536</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">22464563</SimpleData>
+		<SimpleData name="objectid">88598</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.072759276925,25.3929205384612</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">22464564</SimpleData>
+		<SimpleData name="objectid">88599</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.036813892309,25.4254277846151</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555468</SimpleData>
+		<SimpleData name="objectid">20483</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.844097276924,25.6163302615384</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555469</SimpleData>
+		<SimpleData name="objectid">20484</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.878181307693,25.5017161692306</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555470</SimpleData>
+		<SimpleData name="objectid">20485</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.884052523078,25.5235555999999</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555471</SimpleData>
+		<SimpleData name="objectid">20486</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.836063923078,25.5593613076922</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555472</SimpleData>
+		<SimpleData name="objectid">20487</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.87957303077,25.5800323076922</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">N/A</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">COMBUSTIBLE</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555473</SimpleData>
+		<SimpleData name="objectid">20488</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.866981707693,25.6142696153845</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">ELEVADO</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">3</SimpleData>
+		<SimpleData name="identifica">6555474</SimpleData>
+		<SimpleData name="objectid">20489</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.834256584616,25.622149476923</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674361</SimpleData>
+		<SimpleData name="objectid">62769</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.017316723079,25.541707307692</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674362</SimpleData>
+		<SimpleData name="objectid">62770</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.068550353848,25.6229901230766</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674363</SimpleData>
+		<SimpleData name="objectid">62771</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.067953815387,25.6230739692304</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674364</SimpleData>
+		<SimpleData name="objectid">62772</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.10331669231,25.6136888923073</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674365</SimpleData>
+		<SimpleData name="objectid">62773</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.103679784617,25.6101873384612</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674366</SimpleData>
+		<SimpleData name="objectid">62774</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.106923200002,25.6060132923073</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">FUERA DE USO</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674367</SimpleData>
+		<SimpleData name="objectid">62775</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.105235600002,25.6135373692304</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Tanques__Almacenamiento_de_Agua_">
+		<SimpleData name="cali_repr">DEFINIDA</SimpleData>
+		<SimpleData name="geografico">TANQUE</SimpleData>
+		<SimpleData name="rela_suel">CAJA DE AGUA</SimpleData>
+		<SimpleData name="condicion">EN OPERACIÓN</SimpleData>
+		<SimpleData name="contenido">AGUA</SimpleData>
+		<SimpleData name="version">4</SimpleData>
+		<SimpleData name="identifica">17674368</SimpleData>
+		<SimpleData name="objectid">62776</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.05491766154,25.5893040923074</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
